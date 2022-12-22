@@ -53,4 +53,4 @@ jobs:
           app-name: 'suhana-app'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9883E87B791C44BF9E2979CBC7F8A561 }}
-          package: .
+          package: .   
